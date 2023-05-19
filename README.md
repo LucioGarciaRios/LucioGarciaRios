@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 <!--Texto de apresentação-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0088DB&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Lúcio+Garcia!;Atualmente+estou+cursando+ADS+na+faculdade+SPTECH:%29;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=22ff00&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Lúcio+Garcia!;Atualmente+estou+cursando+ADS+na+faculdade+SPTECH:%29;)](https://git.io/typing-svg)
 
 
 <br><br><br><br>
